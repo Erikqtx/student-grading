@@ -1,0 +1,11 @@
+.grade--positive {
+  color: green;
+}
+
+.grade--normal {
+  color: black;
+}
+
+.grade--negative {
+  color: red;
+}
